@@ -39,7 +39,7 @@ body {
 .article-info {
     font-weight: bold;
     font-size: 40px;
-    color: #111111;
+    color: #000000;
     height: 191px;
     width: 635px;
     top: 60px;
@@ -50,7 +50,6 @@ body {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(12);
     overflow: hidden;
     grid-gap: 20px;
     background: #FFFFFF;
